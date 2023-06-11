@@ -1,16 +1,15 @@
 <h1 align="center">Saudações, meu nome é Lucas Vinni, mas pode me chamar de Vinni</h1>
 <h3 align="center">Atualmente estudando pesado para me tornar um designer e desenvolvedor Web</h3>
 
-- 👨‍💻 E aqui podem ver meu portifólio [vercel.com/dashboard](https://vercel.com/lucasvinni01){target="_blank"}
-- %md <a href="https://google.com" target="_blank">google link</a>
+- 👨‍💻 E aqui podem ver meu portifólio [vercel.com/dashboard](https://vercel.com/lucasvinni01)
 
 - 📝 Mantenho esse site para compartilhar projetos de design [https://artvisa.vercel.app/](https://artvisa.vercel.app/)
 
-- 📫 Podem me contatar por aqui: **lucasvinni30@gmail.com**
+- 📫 Podem me contatar por aqui: **logoeu.web@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/lucas-vinni-a617b31b8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/lucas-vinni-a617b31b8" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/linkedin.com/in/lucas-vinni-a617b31b8" (https://www.linkedin.com/in/lucas-vinni-a617b31b8/) target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/lucas-vinni-a617b31b8" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/logoeu.web/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/logoeu.web/" height="30" width="40" /></a>
 </p>
 
