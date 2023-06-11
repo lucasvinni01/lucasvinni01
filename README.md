@@ -2,6 +2,7 @@
 <h3 align="center">Atualmente estudando pesado para me tornar um designer e desenvolvedor Web</h3>
 
 - 👨‍💻 E aqui podem ver meu portifólio [vercel.com/dashboard](https://vercel.com/lucasvinni01){target="_blank"}
+- %md <a href="https://google.com" target="_blank">google link</a>
 
 - 📝 Mantenho esse site para compartilhar projetos de design [https://artvisa.vercel.app/](https://artvisa.vercel.app/)
 
