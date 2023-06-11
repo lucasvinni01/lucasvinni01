@@ -1,11 +1,11 @@
 <h1 align="center">Saudações, meu nome é Lucas Vinni, mas pode me chamar de Vinni</h1>
 <h3 align="center">Atualmente estudando pesado para me tornar um designer e desenvolvedor Web</h3>
 
-- 👨‍💻 E aqui podem ver meu portifólio [vercel.com/dashboard](https://vercel.com/lucasvinni01)
+- 👨‍💻 E aqui podem ver meu portifólio [VERCEL](https://vercel.com/lucasvinni01)
 
-- 📝 Mantenho esse site para compartilhar projetos de design [https://artvisa.vercel.app/](https://artvisa.vercel.app/)
+- 📝 Mantenho esse site para compartilhar projetos de design [ARTVISA](https://artvisa.vercel.app/)
 
-- 📫 Podem me contatar por **logoeu.web@gmail.com** ou pelo meu instagram: [logoeu.web](https://www.instagram.com/logoeu.web/)
+- 📫 Podem me contatar por **logoeu.web@gmail.com** ou pelo meu instagram: [@logoeu.web](https://www.instagram.com/logoeu.web/)
 
 
 
