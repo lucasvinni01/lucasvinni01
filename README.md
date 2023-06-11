@@ -5,7 +5,7 @@
 
 - 📝 Mantenho esse site para compartilhar projetos de design [https://artvisa.vercel.app/](https://artvisa.vercel.app/)
 
-- 📫 Podem me contatar por **logoeu.web@gmail.com** ou pelo meu instagram: [https://www.instagram.com/logoeu.web/](https://www.instagram.com/logoeu.web/)
+- 📫 Podem me contatar por **logoeu.web@gmail.com** ou pelo meu instagram: [logoeu.web](https://www.instagram.com/logoeu.web/)
 
 
 
