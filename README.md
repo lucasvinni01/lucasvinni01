@@ -1,7 +1,7 @@
 <h1 align="center">Saudações, meu nome é Lucas Vinnicio, mas pode me chamar de Vinni</h1>
 <h3 align="center">Atualmente estudando pesado para me tornar um designer e desenvolvedor Web</h3>
 
-- 👨‍💻 E aqui podem ver meu portifólio [VERCEL](https://vercel.com/lucasvinni01)
+- 👨‍💻 Aqui podem ver meu portifólio [VERCEL](https://vercel.com/lucasvinni01)
 
 - 📝 Mantenho esse site para compartilhar projetos de design [ARTVISA](https://artvisa.vercel.app/)
 
